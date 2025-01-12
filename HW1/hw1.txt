@@ -1,0 +1,34 @@
+CSCI 572 - INFORMATION RETRIEVAL AND WEB SEARCH ENGINES - HOMEWORK 1
+
+NAME: MONA TEJA KURAKULA
+
+Assigned Search Engine: ASK
+Assigned Query Set: 100QueriesSet3.txt
+Assigned Google Reference Dataset: Google_Result3.json
+
+Search Engine Used for Assignment: BING
+Query Set Used for Assignment: 100QueriesSet1.txt
+Google Reference Dataset Used for Assignment: Google_Result1.json
+
+
+Reason for Change: 
+
+Initially, I was assigned ASK as the search engine along with Query Set 3 and Google Result 3 as the reference dataset. However, after analyzing the results, I found that the overlap between ASK results and the Google reference dataset was non-existent (i.e., "0" overlap). After consulting with Professor Saty, I switched to using BING as the search engine along with Query Set 1 and the corresponding Google Result 1 dataset, which yielded better overlapping results for the assignment.
+
+
+*** Observations:
+
+hw1.json: Contains the top 10 query results provided by Bing for all 100 queries in 100QueriesSet1.txt.
+hw1.csv: Provides the following summary metrics for all 100 queries:
+	Average Overlap: 1.89
+	Average Percent Overlap: 18.9%
+	Average Spearman Coefficient: -6.094
+
+
+*** Conclusion:
+
+The Spearman correlation coefficient measures the rank correlation between the two search engines. If the rankings of the same documents by two search engines are similar, the Spearman coefficient will be positive. A negative coefficient, as seen here, indicates that the ranks of the overlapping results are quite different. In this case, the average overlap of 1.89 (average percent overlap: 18.9) results per query and the negative Spearman coefficient (-6.094) demonstrate that while there is some (small) overlap in the search results between Google and Bing, the positions of these overlapping results are largely uncorrelated. Considering Google as a Benchmark, Bing has performed comparatively worse. This suggests that Google and Bing use distinct algorithms for ranking documents, prioritizing different features and ranking factors when determining the relevance of results to the same query.
+
+
+
+ 
