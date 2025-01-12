@@ -1,0 +1,41 @@
+Name: Mona Teja Kurakula
+News site crawled: foxnews.com
+Number of threads: 16
+
+Fetch Statistics
+================
+# fetches attempted: 20020
+# fetches succeeded: 19909
+# fetches failed or aborted: 111
+
+Outgoing URLs:
+==============
+Total URLs extracted: 1943315
+# unique URLs extracted: 74995
+# unique URLs within News Site: 61509
+# unique URLs outside News Site: 13486
+
+Status Codes:
+=============
+200 OK: 19909
+301 Moved Permanently: 49
+403 Forbidden: 9
+404 Not Found: 53
+
+File Sizes:
+===========
+<1KB: 0
+1KB ~ <10KB: 0
+10KB ~ <100KB: 5314
+100KB ~ <1MB: 14554
+>=1MB: 41
+
+Content Types:
+==============
+text/html: 19909
+image/jpeg: 0
+image/png: 0
+image/gif: 0
+image/svg+xml: 0
+application/pdf: 0
+application/msword: 0
