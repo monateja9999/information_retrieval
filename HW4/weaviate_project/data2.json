@@ -1,0 +1,52 @@
+[
+  {
+    "Author": "George Orwell",
+    "Book": "1984",
+    "Summary": "A dystopian novel about surveillance and totalitarianism."
+  },
+  {
+    "Author": "J.K. Rowling",
+    "Book": "Harry Potter and the Sorcerer's Stone",
+    "Summary": "A young wizard's journey begins as he discovers his magical heritage."
+  },
+  {
+    "Author": "Jane Austen",
+    "Book": "Pride and Prejudice",
+    "Summary": "A romantic tale exploring themes of class and social standing."
+  },
+  {
+    "Author": "Mark Twain",
+    "Book": "The Adventures of Huckleberry Finn",
+    "Summary": "A story about friendship and moral growth along the Mississippi River."
+  },
+  {
+    "Author": "Harper Lee",
+    "Book": "To Kill a Mockingbird",
+    "Summary": "A young girl witnesses racial injustice in the American South."
+  },
+  {
+    "Author": "F. Scott Fitzgerald",
+    "Book": "The Great Gatsby",
+    "Summary": "A critique of the American Dream set in the Roaring Twenties."
+  },
+  {
+    "Author": "Mary Shelley",
+    "Book": "Frankenstein",
+    "Summary": "A scientist creates life, with unexpected consequences."
+  },
+  {
+    "Author": "Herman Melville",
+    "Book": "Moby Dick",
+    "Summary": "A sailor's obsession with a great white whale."
+  },
+  {
+    "Author": "Gabriel García Márquez",
+    "Book": "One Hundred Years of Solitude",
+    "Summary": "The story of the Buendía family over several generations."
+  },
+  {
+    "Author": "Chinua Achebe",
+    "Book": "Things Fall Apart",
+    "Summary": "The clash of cultures in pre-colonial Nigeria."
+  }
+]

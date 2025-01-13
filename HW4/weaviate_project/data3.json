@@ -1,0 +1,107 @@
+[
+  {
+    "School": "Viterbi School of Engineering",
+    "CourseName": "CSCI 572 - Information Retrieval and Web Search Engines",
+    "CourseDesc": "This course delves into the design and implementation of search engines and the principles of information retrieval. Students will explore indexing, ranking algorithms, and crawling, focusing on how search engines process and rank information from large-scale data sources."
+  },
+  {
+    "School": "Viterbi School of Engineering",
+    "CourseName": "CSCI 585 - Database Systems",
+    "CourseDesc": "This course provides an in-depth understanding of database systems, focusing on relational models, query processing, and design principles. Students will also learn about database optimization, indexing, and transaction management, and work on hands-on projects in designing efficient databases."
+  },
+  {
+    "School": "Viterbi School of Engineering",
+    "CourseName": "DSCI 552 - Machine Learning for Data Science",
+    "CourseDesc": "Students will learn machine learning techniques and algorithms applied to data science, covering both supervised and unsupervised learning. Topics include regression, classification, clustering, and dimensionality reduction, with a focus on using machine learning for predictive analytics in real-world scenarios."
+  },
+  {
+    "School": "Viterbi School of Engineering",
+    "CourseName": "CSCI 544 - Applied Natural Language Processing",
+    "CourseDesc": "In this course, students will gain hands-on experience in applying NLP techniques to solve real-world problems. The course covers text processing, sentiment analysis, named entity recognition, and other advanced NLP topics, with a focus on building natural language processing applications."
+  },
+  {
+    "School": "Viterbi School of Engineering",
+    "CourseName": "CSCI 550 - Advanced Data Stores",
+    "CourseDesc": "This course covers the theory and practice of advanced database systems. Topics include distributed databases, NoSQL technologies, data consistency, and fault tolerance, with a focus on building scalable data storage solutions."
+  },
+  {
+    "School": "Viterbi School of Engineering",
+    "CourseName": "CSCI 570 - Analysis of Algorithms",
+    "CourseDesc": "CSCI 570 covers the fundamental techniques of algorithm design and analysis, including sorting, searching, graph algorithms, and dynamic programming. The course focuses on algorithmic efficiency, optimization, and complexity analysis, making it essential for students interested in theoretical computer science."
+  },
+  {
+    "School": "Viterbi School of Engineering",
+    "CourseName": "CSCI 587 - Geospatial Information Management",
+    "CourseDesc": "This course introduces students to the management and analysis of geospatial data. Topics include geographic information systems (GIS), spatial data indexing, and the use of geospatial data for decision-making in various fields, such as urban planning, environmental science, and transportation."
+  },
+  {
+    "School": "Viterbi School of Engineering",
+    "CourseName": "DSCI 510 - Principles of Programming for Data Science",
+    "CourseDesc": "In this introductory course, students will learn how to program in Python and work with data science libraries such as NumPy and Pandas. The course emphasizes practical data manipulation, cleaning, and analysis techniques, providing a strong foundation for students pursuing careers in data science."
+  },
+  {
+    "School": "Viterbi School of Engineering",
+    "CourseName": "DSCI 529 - Security and Privacy",
+    "CourseDesc": "Students in this course will explore key concepts in the design and implementation of secure and privacy-preserving systems. Topics include encryption, authentication, and secure communications, as well as emerging trends such as privacy laws and ethical concerns in data science."
+  },
+  {
+    "School": "Viterbi School of Engineering",
+    "CourseName": "DSCI 550 - Data Science at Scale",
+    "CourseDesc": "This course covers advanced topics in data science, including distributed computing and working with big data frameworks like Hadoop and Spark. Students will learn how to process and analyze large datasets, applying machine learning algorithms at scale to solve complex data problems."
+  },
+  {
+    "School": "Viterbi School of Engineering",
+    "CourseName": "DSCI 554 - Data Visualization",
+    "CourseDesc": "Students in this course will learn techniques for visualizing complex datasets and communicating data-driven insights. Topics include data representation, visualization tools (e.g., Tableau, D3.js), and storytelling with data, with applications in business, healthcare, and social sciences."
+  },
+  {
+    "School": "Viterbi School of Engineering",
+    "CourseName": "DSCI 560 - Data Science Professional Practicum",
+    "CourseDesc": "This hands-on course gives students the opportunity to apply data science skills in an industry setting. Students will work on real-world projects, collaborating with industry professionals to solve data-driven problems, and will learn project management, communication, and teamwork skills."
+  },
+  {
+    "School": "Viterbi School of Engineering",
+    "CourseName": "DSCI 599 - Special Topics",
+    "CourseDesc": "This course offers students the opportunity to explore emerging or specialized topics in data science. The topics may vary depending on faculty expertise and current trends in the field, including topics like artificial intelligence, blockchain, or ethical data science practices."
+  },
+  {
+    "School": "Marshall School of Business",
+    "CourseName": "BUAD 304 - Organizational Behavior and Leadership",
+    "CourseDesc": "This course focuses on understanding organizational behavior, leadership, and strategies for effective teamwork. Students will explore topics such as motivation, decision-making, and conflict management to help develop strong leadership skills."
+  },
+  {
+    "School": "Marshall School of Business",
+    "CourseName": "BUAD 307 - Principles of Marketing",
+    "CourseDesc": "An introduction to the core principles and strategies of marketing. This course covers market research, consumer behavior, brand management, and the role of digital media in modern marketing campaigns."
+  },
+  {
+    "School": "School of Cinematic Arts",
+    "CourseName": "CTPR 535 - Advanced Film Production Techniques",
+    "CourseDesc": "Students will gain hands-on experience in advanced film production, including cinematography, lighting, sound, and editing. This course will allow students to hone their technical skills in creating high-quality film content."
+  },
+  {
+    "School": "School of Cinematic Arts",
+    "CourseName": "CTAN 452 - Introduction to Computer Animation",
+    "CourseDesc": "This course introduces students to the basics of computer animation. Students will learn 3D modeling, rendering, and the basics of storytelling through animation, with a focus on creating visually compelling digital characters."
+  },
+  {
+    "School": "Dornsife College of Letters, Arts, and Sciences",
+    "CourseName": "PHIL 262g - Introduction to Ethics",
+    "CourseDesc": "This course examines the major ethical theories and the application of these theories to contemporary moral issues. Students will engage with real-life case studies to analyze moral dilemmas and develop their ethical reasoning skills."
+  },
+  {
+    "School": "Dornsife College of Letters, Arts, and Sciences",
+    "CourseName": "ENGL 371g - Shakespearean Studies",
+    "CourseDesc": "A deep dive into the works of William Shakespeare, analyzing his plays and sonnets. Students will explore themes of tragedy, comedy, history, and love, as well as the historical context in which Shakespeare wrote."
+  },
+  {
+    "School": "Annenberg School for Communication",
+    "CourseName": "COMM 204 - Public Speaking",
+    "CourseDesc": "This course is designed to develop students' public speaking skills. It covers effective communication techniques for diverse audiences, focusing on speech delivery, content structure, and persuasive communication."
+  },
+  {
+    "School": "Annenberg School for Communication",
+    "CourseName": "JOUR 307 - Multimedia Journalism",
+    "CourseDesc": "An introduction to multimedia journalism, focusing on video production, digital storytelling, and online media. Students will learn the skills required to produce compelling stories for various media platforms."
+  }
+]
